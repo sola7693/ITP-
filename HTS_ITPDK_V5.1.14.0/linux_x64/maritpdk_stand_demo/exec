@@ -1,0 +1,5 @@
+#cp ~/shareTmp/hgfs/server/linux/demo/src/main.cpp ./src/
+make clean && make
+cd ./out
+./itpdk_demo
+

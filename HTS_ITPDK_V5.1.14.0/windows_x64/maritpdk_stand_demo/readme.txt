@@ -1,0 +1,1 @@
+进入out目录下执行maritpdk_stand_demo.exe

@@ -1,0 +1,27 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "cppdbg",
+      "name": "D:\\两融\\HTS两融demo\\顶点两融cmaritpdk_V5.1.14.0_20211105\\windows_x64\\maritpdk_stand_demo",
+      "project": "",
+      "cwd": "${workspaceRoot}",
+      "program": "${debugInfo.target}",
+      "processId": "0",
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env.MINGW_PREFIX}\\bin\\gdb.exe",
+      "externalConsole": true
+    },
+    {
+      "type": "cppdbg",
+      "name": "D:\\两融\\HTS两融demo\\顶点两融cmaritpdk_V5.1.14.0_20211105\\windows_x64\\maritpdk_stand_demo(1)",
+      "project": "",
+      "cwd": "${workspaceRoot}",
+      "program": "${debugInfo.target}",
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env.MINGW_PREFIX}\\bin\\gdb.exe",
+      "externalConsole": true
+    }
+  ]
+}
